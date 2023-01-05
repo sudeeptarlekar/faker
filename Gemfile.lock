@@ -55,7 +55,7 @@ GEM
     timecop (0.9.6)
     unicode-display_width (2.3.0)
     webrick (1.7.0)
-    yard (0.9.27)
+    yard (0.9.28)
       webrick (~> 1.7.0)
 
 PLATFORMS
@@ -72,7 +72,7 @@ DEPENDENCIES
   simplecov (= 0.21.2)
   test-unit (= 3.5.7)
   timecop (= 0.9.6)
-  yard (= 0.9.27)
+  yard (= 0.9.28)
 
 BUNDLED WITH
    2.1.4
